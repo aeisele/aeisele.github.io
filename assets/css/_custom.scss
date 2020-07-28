@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'Infinium Guardian Caps';
+  src: url('/fonts/Infinium Guardian Caps.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Infinium Guardian';
+  src: url('/fonts/Infinium Guardian.ttf') format('truetype');
+}
+
+.ae-logo-caps {
+  font-family: Infinium Guardian Caps;
+  color: #0094FF;
+}
+
+.ae-logo {
+  font-family: Infinium Guardian;
+  color: #0094FF;
+}

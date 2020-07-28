@@ -1,3 +1,60 @@
-baseURL = "http://example.org/"
+baseURL = "http://andreaseisele.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Æ Software"
+
+theme = "LoveIt"
+
+[params]
+    version = "0.2.X"
+    description = "Andreas Eisele, IT Consultant, Software Architect, Software Developer"
+    keywords = ["Software", "Development", "Software Development", "Software Architecture", "Java", "Spring", "JPA", "Spring Boot"]
+    defaultTheme = "dark"
+
+    [params.header]
+        [params.header.title]
+            #logo = "/images/logo_google.png"
+            typeit = false
+            pre = "<span class='ae-logo'>Æ </span><span class='ae-logo-caps'>S</span><span class='ae-logo'>oftware</span>"
+
+    [params.home]
+        [params.home.profile]
+            avatarUrl = "/images/quadratic_av.png"
+            title = "Andreas Eisele"
+            subtitle = "Consultant, Software {Architect, Developer}"
+            typeit = true
+
+[menu]
+    [[menu.main]]
+        identifier = "posts"
+        # you can add extra information before the name (HTML format is supported), such as icons
+        pre = ""
+        # you can add extra information after the name (HTML format is supported), such as icons
+        post = ""
+        name = "Posts"
+        url = "/posts/"
+        # title will be shown when you hover on this menu link
+        title = ""
+        weight = 1
+    [[menu.main]]
+        identifier = "tags"
+        pre = ""
+        post = ""
+        name = "Tags"
+        url = "/tags/"
+        title = ""
+        weight = 2
+    [[menu.main]]
+        identifier = "categories"
+        pre = ""
+        post = ""
+        name = "Categories"
+        url = "/categories/"
+        title = ""
+        weight = 3
+
+# Markup related configuration in Hugo
+[markup]
+    # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+    [markup.highlight]
+        # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+        noClasses = false
