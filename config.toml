@@ -15,12 +15,28 @@ theme = "LoveIt"
             typeit = false
             pre = "<span class='ae-logo'>Æ </span><span class='ae-logo-caps'>S</span><span class='ae-logo'>oftware</span>"
 
+    [params.footer]
+        since = 2020
+
     [params.home]
         [params.home.profile]
             avatarUrl = "/images/avatar.png"
             title = "Andreas Eisele"
             subtitle = "Consultant, Software {Architect, Developer}"
             typeit = true
+            social = true
+
+    [params.social]
+        GitHub = "aeisele"
+        LinkedIn = "andreas-eisele-7856211b1"
+        Twitter = "ae____"
+        StackOverflow = "222272"
+        Xing = "Andreas_Eisele25"
+        Email = "contact@andreaseisele.com"
+        RSS = true
+
+[author]
+    name = "Andreas Eisele"
 
 [menu]
     [[menu.main]]
