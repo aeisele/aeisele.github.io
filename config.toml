@@ -12,13 +12,12 @@ theme = "LoveIt"
 
     [params.header]
         [params.header.title]
-            #logo = "/images/logo_google.png"
             typeit = false
             pre = "<span class='ae-logo'>Æ </span><span class='ae-logo-caps'>S</span><span class='ae-logo'>oftware</span>"
 
     [params.home]
         [params.home.profile]
-            avatarUrl = "/images/quadratic_av.png"
+            avatarUrl = "/images/avatar.png"
             title = "Andreas Eisele"
             subtitle = "Consultant, Software {Architect, Developer}"
             typeit = true
