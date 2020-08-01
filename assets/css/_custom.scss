@@ -8,12 +8,24 @@
   src: url('/fonts/Infinium Guardian.ttf') format('truetype');
 }
 
+$ae-color: #0094FF;
+
 .ae-logo-caps {
   font-family: Infinium Guardian Caps;
-  color: #0094FF;
+  color: $ae-color;
 }
 
 .ae-logo {
   font-family: Infinium Guardian;
-  color: #0094FF;
+  color: $ae-color;
+}
+
+.single-title {
+  &.flipInX {
+    animation: none !important;
+  }
+}
+
+.footer {
+  height: 3rem;
 }

@@ -17,6 +17,7 @@ theme = "LoveIt"
 
     [params.footer]
         since = 2020
+        custom = "<a href='/imprint'>Imprint</a>&nbsp;|&nbsp;<a href='/dsgvo'>Privacy & Terms</a>"
 
     [params.home]
         [params.home.profile]
