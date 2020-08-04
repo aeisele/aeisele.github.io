@@ -1,5 +1,5 @@
 #baseURL = "https://andreaseisele.com/"
-baseUrl = "https://aeisele.github.io/ae-blog/"
+baseUrl = "https://aeisele.github.io/"
 languageCode = "en-us"
 title = "Æ Software"
 
@@ -27,7 +27,7 @@ enableEmoji = true
 
     [params.home]
         [params.home.profile]
-            avatarUrl = "/images/avatar.png"
+            avatarUrl = "images/avatar.png"
             title = "Andreas Eisele"
             subtitle = "Consultant, Software {Architect, Developer}"
             typeit = true
