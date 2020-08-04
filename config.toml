@@ -1,4 +1,5 @@
-baseURL = "https://andreaseisele.com/"
+#baseURL = "https://andreaseisele.com/"
+baseUrl = "https://aeisele.github.io/ae-blog/"
 languageCode = "en-us"
 title = "Æ Software"
 
