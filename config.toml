@@ -5,6 +5,9 @@ title = "Æ Software"
 theme = "LoveIt"
 
 defaultContentLanguage = "en"
+enableRobotsTXT = true
+enableGitInfo = true
+enableEmoji = true
 
 [params]
     version = "0.2.X"
@@ -37,6 +40,9 @@ defaultContentLanguage = "en"
         Xing = "Andreas_Eisele25"
         Email = "contact@andreaseisele.com"
         RSS = true
+
+    [params.page]
+        fontawesome = true
 
 [author]
     name = "Andreas Eisele"
