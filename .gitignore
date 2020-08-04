@@ -1,2 +1,6 @@
+# idea
 .idea
 *.iml
+
+# hugo
+/resources/_gen/
