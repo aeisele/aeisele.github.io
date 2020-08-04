@@ -4,6 +4,8 @@ title = "Æ Software"
 
 theme = "LoveIt"
 
+defaultContentLanguage = "en"
+
 [params]
     version = "0.2.X"
     description = "Andreas Eisele, IT Consultant, Software Architect, Software Developer"
@@ -17,7 +19,7 @@ theme = "LoveIt"
 
     [params.footer]
         since = 2020
-        custom = "<a href='/imprint'>Imprint</a>&nbsp;|&nbsp;<a href='/dsgvo'>Privacy & Terms</a>"
+        custom = "<a href='/legal'>Legal</a>&nbsp;|&nbsp;<a href='/gdpr'>Privacy</a>"
 
     [params.home]
         [params.home.profile]
@@ -74,3 +76,13 @@ theme = "LoveIt"
     [markup.highlight]
         # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
         noClasses = false
+
+[languages]
+    [languages.en]
+        weight = 1
+        languageCode = "en"
+        languageName = "English"
+    [languages.de]
+        weight = 2
+        languageCode = "de"
+        languageName = "Deutsch"
