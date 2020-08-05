@@ -27,7 +27,7 @@ enableEmoji = true
 
     [params.home]
         [params.home.profile]
-            avatarUrl = "images/avatar.png"
+            avatarUrl = "/images/avatar.png"
             title = "Andreas Eisele"
             subtitle = "Consultant, Software {Architect, Developer}"
             typeit = true
@@ -44,6 +44,20 @@ enableEmoji = true
 
     [params.page]
         fontawesome = true
+
+        [params.page.share]
+            enable = true
+            Twitter = true
+            LinkedIn = true
+            HackerNews = true
+            Reddit = true
+            Xing = true
+
+        [params.page.comment]
+            enable = true
+            [params.page.comment.diqus]
+                enable = true
+                shortname = "aecomblog"
 
 [author]
     name = "Andreas Eisele"

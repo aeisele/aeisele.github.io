@@ -14,14 +14,14 @@ images:
 # A NEW BLOG
 
 This is not my first blog ever. Over the years I've maintained and scrapped various personal webpages including weblogs.
-I've decided it's time for another one. I want to focus my writing here on tech and IT in whatever I consider to be the
+Now it's time for another try. I want to focus my writing here on tech and IT in whatever one may consider to be the
 professional side - but who am I kidding, a blog is never strictly professional. Let's see how this goes. :wink:
 
 ## The Tech Stack
 
-I have some experience with both maintaining and running [Wordpress](https://wordpress.org/) blogs. So naturally I've
-been looking to try something new for me. While static page generators have been around for ages the whole idea seems
-to have grown into a valid option by now. I guess we have to thank [github pages](https://pages.github.com/),
+I have some prior experience with both maintaining and running [Wordpress](https://wordpress.org/) blogs. So naturally I've
+been looking to try something else instead. While static page generators have been around for ages the whole idea seems
+to have grown into more than just a valid option by now. I guess we have to thank [github pages](https://pages.github.com/),
 [netlify](https://www.netlify.com/) and [AWS](https://aws.amazon.com/) amongst others for this trend.
 
 The cool thing is that running a static web page in 2020 is really no hassle anymore. Gone are the needs to think about
@@ -44,8 +44,8 @@ A little more _googling_ around brought [Hugo](https://gohugo.io/) to my attenti
 it is still _markdown_ based but it has the possibility to defer to different backends. One of them actually is _AsciiDoc_
 via the means of [Asciidoctor](https://asciidoctor.org/). So the choice was obvious to me: _Hugo_ it is.
 
-Little did I anticipate that the current _asciidoctor_ backend is not without its problems. Especially syntax highlighting
-a prime feature of _AsciiDoc_ doesn't seem to integrate with _Hugo_ (or rather its themes) all too well currently:
+Little did I anticipate that the current _asciidoctor_ backend is not without its problems. Especially syntax highlighting,
+a prime feature of _AsciiDoc_, doesn't seem to integrate with _Hugo_ (or rather its themes) all too well currently:
  - [rgielen.net post about hugo and asciidoctor](https://rgielen.net/posts/2019/creating-a-blog-with-hugo-and-asciidoctor/)
  - [github issue with okta blog](https://github.com/oktadeveloper/okta-blog-hugo/issues/6) 
 
