@@ -55,7 +55,7 @@ enableEmoji = true
 
         [params.page.comment]
             enable = true
-            [params.page.comment.diqus]
+            [params.page.comment.disqus]
                 enable = true
                 shortname = "aecomblog"
 
