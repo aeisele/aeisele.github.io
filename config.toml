@@ -54,10 +54,7 @@ enableEmoji = true
             Xing = true
 
         [params.page.comment]
-            enable = true
-            [params.page.comment.disqus]
-                enable = true
-                shortname = "aecomblog"
+            enable = false
 
 [author]
     name = "Andreas Eisele"
