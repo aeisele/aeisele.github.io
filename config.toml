@@ -53,9 +53,6 @@ enableEmoji = true
             Reddit = true
             Xing = true
 
-        [params.page.comment]
-            enable = false
-
 [author]
     name = "Andreas Eisele"
 
