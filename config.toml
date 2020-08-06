@@ -53,6 +53,17 @@ enableEmoji = true
             Reddit = true
             Xing = true
 
+        [params.page.comment]
+            enable = true
+
+                [params.page.comment.utterances]
+                enable = true
+                repo = "aeisele/andreaseisele.com-comments"
+                issueTerm = "pathname"
+                label = "blog-comment"
+                lightTheme = "github-light"
+                darkTheme = "github-dark"
+
 [author]
     name = "Andreas Eisele"
 
