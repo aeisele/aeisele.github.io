@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://aeisele.github.io/sitemap.xml
+Sitemap: https://www.andreaseisele.com/sitemap.xml
