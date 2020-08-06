@@ -10,12 +10,11 @@ resources:
 images: 
     - Octocat-centered-streched.png
 lightgallery: true
-diagram: true
 ---
 
 ## Hosting Hugo on GitHub Pages
 
-As mentioned in my last [blog post](../bloggin-with-hugo) my goal was to move this entire homepage to be hosted on [github pages](https://pages.github.com/).
+As mentioned in my last [blog post](../blogging-with-hugo) my goal was to move this entire homepage to be hosted on [github pages](https://pages.github.com/).
 
 ### TL;DR: My ToDo
 
