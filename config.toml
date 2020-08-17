@@ -65,6 +65,9 @@ enableEmoji = true
                     lightTheme = "github-light"
                     darkTheme = "github-dark"
 
+    [params.cookieconsent]
+        enable = true
+
 [author]
     name = "Andreas Eisele"
 
