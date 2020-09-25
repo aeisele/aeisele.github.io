@@ -7,8 +7,6 @@ categories: [programming]
 resources:
     - name: featured-image
       src: drawers.png
-images:
-    - drawers.png
 lightgallery: true
 code:
     maxShownLines: 50
