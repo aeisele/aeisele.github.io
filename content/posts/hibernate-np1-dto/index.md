@@ -19,7 +19,7 @@ needs to introduce _DTO_ style result objects for specific use cases like projec
 of the deal, no OR mapper can do your homework for you.
 
 Luckily _JPA_ gives us a way of specifying exactly what result objects we expect from a query. One
-way to do that is to use _JPQL_ with its so called 'constructor expresssion' in the select part of
+way to do that is to use _JPQL_ with its so called 'constructor expression' in the select part of
 the query.
 
 ```jpaql
@@ -71,7 +71,7 @@ select place0_.id as id1_0_0_, place0_.location as location2_0_0_, place0_.name 
 select place0_.id as id1_0_0_, place0_.location as location2_0_0_, place0_.name as name3_0_0_ from places place0_ where place0_.id=?
 ```
 
-We can clearly see that our singlular _JPQL_ query resulted in one query that is roughly its _SQL_
+We can clearly see that our singular _JPQL_ query resulted in one query that is roughly its _SQL_
 equivalent. On top of that we can see additional selects one for each entity instance in our result
 set (here the result size is 2). This looks like the dreaded __N+1__ problem.
 
