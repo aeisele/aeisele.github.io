@@ -28,7 +28,7 @@ enableEmoji = true
 
     [params.home]
         [params.home.profile]
-            avatarUrl = "/images/avatar.png"
+            avatarUrl = "/images/only_shirt_crop.png"
             title = "Andreas Eisele"
             subtitle = "Consultant, Software {Architect, Developer}"
             typeit = true
