@@ -1,0 +1,6 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>build system - Tag - Æ Software</title><link>https://www.andreaseisele.com/tags/build-system/</link><description>build system - Tag - Æ Software</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 13 Oct 2020 17:03:00 +0200</lastBuildDate><atom:link href="https://www.andreaseisele.com/tags/build-system/" rel="self" type="application/rss+xml"/><item><title>Don't just blindly run mvn clean install...</title><link>https://www.andreaseisele.com/posts/mvn-clean-install/</link><pubDate>Tue, 13 Oct 2020 17:03:00 +0200</pubDate><author>Author</author><guid>https://www.andreaseisele.com/posts/mvn-clean-install/</guid><description><![CDATA[TL;DR Believe me you almost never want to run the install goal.
+If you want to create artifacts use this command:
+mvn package throw in the occasional -D skipTests if you&rsquo;re feeling adventurous. 😉
+If you want to run tests (e.g. in a CI build) use this command:
+mvn verify If you&rsquo;re not convinced please keep reading.
+about that maven install goal You see mvn clean install has been handed around for years as the goto command to &ldquo;build the software&rdquo;.]]></description></item></channel></rss>
