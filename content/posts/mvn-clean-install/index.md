@@ -44,7 +44,7 @@ What the `clean` goal is doing is to try to delete every target folder in every 
 
 ### install always works, right?
 
-If you've ever had the pleasure of working with so called _"multi module"_ projects you know the pain. _Maven_ really isn't all that intuitive when it comes to who inter-project dependencies are resolved. Sooner or later someone will tell you "well duh, you need to install the depencies to your local repo" and from that point of time on running the ocassional `mvn clean install` is just daily business.
+If you've ever had the pleasure of working with so called _"multi module"_ projects you know the pain. _Maven_ really isn't all that intuitive when it comes to how inter-project dependencies are resolved. Sooner or later someone will tell you "well duh, you need to install the dependencies to your local repo" and from that point of time on running the occasional `mvn clean install` is just daily business.
 
 Take a look at the following simplified project structure:
 
