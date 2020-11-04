@@ -54,7 +54,7 @@ So one might be tempted to keep using the tried old workspace scheme, now just m
 
 ## Make use of the SCM Integrations
 
-Again as if with the preceding point if you're used to other IDEs you will usually have a experience with flaky strange SCM integrations that in the best case are only a wrapper around command line tools, and in the worst case add their own idea of how to do SCM on top. The seasoned developer sooner or later learns that proper SCM invocations happen on the command line.
+Again as if with the preceding point if you're used to other IDEs you will usually have a bad experience with flaky or strange SCM integrations that in the best case are only a wrapper around command line tools, and in the worst case add their own idea of how to do SCM on top. The seasoned developer sooner or later learns that proper SCM invocations happen on the command line.
 
 With _"IntelliJ IDEA"_ you get super smart and easy SCM integrations that enable you to do complex stuff like _git cherry-pick_ with a single button click while still enabling you understand what exactly is going on. Even if you don't have a use for those edge cases just remember these shortcuts:
 
