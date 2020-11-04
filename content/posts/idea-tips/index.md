@@ -20,7 +20,7 @@ Of course your mileage may vary, and you don't necessarily need to agree with my
 
 ## Import Maven Projects like a Pro
 
-I don't really know why that is the case but over the years I've found that there is one surefire way to correctly import maven projects, and it is not obvious. To import a maven project that you already have sitting ready on your local drive (e.g. just checked out from _SCM_) follow these steps:
+I don't really know why that is the case but over the years I've found that there is one surefire way to correctly import maven projects, and it is not obvious. To import a maven project that you already have sitting on your local drive (e.g. just checked out from _SCM_) follow these steps:
   1. click "File" / "Open..."
   2. navigate to the project folder
   3. select the :(far fa-file-alt):`pom.xml` file
