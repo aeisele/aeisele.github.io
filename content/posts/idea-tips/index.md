@@ -14,7 +14,7 @@ code:
 
 ## Why IDEA?
 
-It seems like a lot of people have migrated to [IntelliJ IDEA](https://www.jetbrains.com/idea/) over the years. As a long time _IDEA_ user I can attest there are many reasons for that. So if you're willing to make the jump here are some tips to easy your life.
+It seems like a lot of people have migrated to [IntelliJ IDEA](https://www.jetbrains.com/idea/) over the years. As a long time _IDEA_ user I can attest there are many reasons for that. So if you're willing to make the jump here are some tips to ease your life.
 
 Of course your mileage may vary, and you don't necessarily need to agree with my opinions. That's completely fine. :wink:
 
