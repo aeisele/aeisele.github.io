@@ -73,7 +73,7 @@ The most powerful thing about the SCM integrations though is the interactive com
  
 ## Immediately use those Keyboard Shortcuts
 
-I know it is hard to re-train our minds to do things differntly but the key to fun in _IDEA_ is to use keyboard shortcuts. You should use the following ones immediately from the start:
+I know it is hard to re-train our minds to do things differently, but the key to fun in _IDEA_ is to use keyboard shortcuts. You should use the following ones immediately from the start:
 
 | Keys | Action |
 | ---- | ------ |
