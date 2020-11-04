@@ -94,7 +94,7 @@ I know it is hard to re-train our minds to do things differently, but the key to
  
 ## Keep Learning
 
-I've been working with _IDEA_ pretty much every other day for more than a decade now. One would expect me to have mastered it by now. That couldn't be further from the truth so. One thing is that the people at [JetBrains](https://www.jetbrains.com) are still coming up with new ideas of how to improve their IDE, so the development never stops. The other thing is that a lot of really cool and pro functionality is usually not easy to find. Just today I discovered that the built in markdown support can even use _PlantUML_ diagrams, if setup correctly...
+I've been working with _IDEA_ pretty much every other day for more than a decade now. One would expect me to have mastered it by now. That couldn't be further from the truth though. One thing is that the people at [JetBrains](https://www.jetbrains.com) are still coming up with new ideas of how to improve their IDE, so the development never stops. The other thing is that a lot of really cool and pro functionality is usually not easy to find. Just today I discovered that the built in markdown support can even use _PlantUML_ diagrams, if setup correctly...
 
 So definitely keep the "Tip of the day" enabled. You will learn new things every day. And on top of that think about maybe enabling plugins like the "Key Promoter", this will teach you what keyboard shortcuts you could have used to achieve whatever you just did by using the mouse. 
 
