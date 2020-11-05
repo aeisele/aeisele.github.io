@@ -20,6 +20,10 @@ Of course your mileage may vary, and you don't necessarily need to agree with my
 
 ## Import Maven Projects like a Pro
 
+{{< admonition type=note title="Update" >}}
+I have it on good authority that while there are differences in how projects get imported, you should not have any problems regardles of how you do it. So take my tip here with a grain of salt and decide for yourself what works best for you.
+{{< /admonition >}}
+
 I don't really know why that is the case but over the years I've found that there is one surefire way to correctly import maven projects, and it is not obvious. To import a maven project that you already have sitting on your local drive (e.g. just checked out from _SCM_) follow these steps:
   1. click "File" / "Open..."
   2. navigate to the project folder
